@@ -2,7 +2,7 @@ package com.study.adapter;
 /**
  * 对象适配器（组合关系）
  * (连接PS/2的一端)
- * @author 东东
+ * @author DonkeyHu
  *
  */
 public class Adapter2  implements Target{

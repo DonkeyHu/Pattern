@@ -1,7 +1,7 @@
 package com.study.factory;
 /**
  * 测试简单的工厂类
- * @author Donkey.Hu
+ * @author DonkeyHu
  *
  */
 public class ShapeFactoryDemo {

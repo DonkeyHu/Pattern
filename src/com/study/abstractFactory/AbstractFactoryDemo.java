@@ -1,7 +1,7 @@
 package com.study.abstractFactory;
 /**
  * 抽象工厂设计模式，即为工厂再设计个工厂
- * @author Donkey Hu
+ * @author DonkeyHu
  *
  */
 public class AbstractFactoryDemo {

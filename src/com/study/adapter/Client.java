@@ -2,7 +2,7 @@ package com.study.adapter;
 /**
  * 目标对象
  * （相当于笔记本电脑）
- * @author 东东
+ * @author DonkeyHu
  *
  */
 public class Client {

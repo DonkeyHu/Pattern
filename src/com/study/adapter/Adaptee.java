@@ -2,7 +2,7 @@ package com.study.adapter;
 /**
  * 被适配的类
  * （相当于：PS/2键盘）
- * @author 东东
+ * @author DonkeyHu
  *
  */
 public class Adaptee {
